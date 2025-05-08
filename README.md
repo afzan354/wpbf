@@ -52,7 +52,7 @@ password
 1. **Clone repo ini**:
 
    ```bash
-   git clone https://github.com/username/wpbf.git
+   git clone https://github.com/afzan354/wpbf.git
    cd wpbf
    ```
 
